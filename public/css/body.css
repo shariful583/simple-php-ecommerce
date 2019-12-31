@@ -1,0 +1,23 @@
+
+.navbar-fixed-top {
+    background: #286090;
+
+}
+
+.navbar-collapse ul li a:hover {
+    color: #286090;
+
+}
+
+.navbar-brand, .navbar-collapse ul li a {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+footer {
+    background: #286090;
+
+}
